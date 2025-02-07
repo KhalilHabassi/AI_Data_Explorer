@@ -1,6 +1,3 @@
-# datavis-app
-AI-Powered Data Visualization Platform
-
 # AI Data Explorer
 
 AI Data Explorer est une application web interactive qui permet d'explorer, analyser et visualiser des données tabulaires grâce à l'intelligence artificielle. Elle intègre une interface utilisateur conviviale avec Streamlit, le traitement et l'analyse de données avec Pandas, ainsi que la génération de résumés et de visualisations via l'API de Claude (Anthropic).
@@ -46,7 +43,7 @@ AI Data Explorer est une application web interactive qui permet d'explorer, anal
 
 Commencez par récupérer le projet depuis GitHub :
 
-git clone https://github.com/votre-utilisateur/spotify-music-analyzer.git
+git clone https://github.com/KhalilHabassi/AI_Data_Explorer.git
 
 2. **Installer les dépendances avec Poetry :**
 Utilisez Poetry pour gérer les dépendances et assurer un environnement stable :
