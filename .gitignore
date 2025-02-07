@@ -1,0 +1,14 @@
+# Fichiers sensibles
+.env
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+.env/
+ENV/
+
